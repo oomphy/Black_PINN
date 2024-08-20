@@ -1,1 +1,1 @@
-# Black_PINN
+The Black-Scholes equation marked a groundbreaking advancement in finance, providing a way to calculate the relationship between the price changes of an option and its underlying asset using a partial differential equation. In this project, we employed physics-informed neural networks (PINNs) to derive numerical solutions for the Black-Scholes equation, specifically for pricing European options.
